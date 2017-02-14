@@ -1,12 +1,12 @@
 { 
-  "author": "Antti Leppä / Otavan Opisto",
+  "author": "Otavan Opisto",
   "name": "jquery.license-selector",
   "license": "LGPL-v3",
   "licenses": [{
     "type": "LGPL-v3",
     "url": "http://www.gnu.org/licenses/lgpl-3.0.html"
   }],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "homepage": "https://github.com/otavanopisto/jquery.license-selector",
   "engines": {
     "node": ">= 0.10.0"
